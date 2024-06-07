@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Ponhoka, its ya boi
+Pon here.
+Pronouns: Pon / Hoka
+Ponder
+Procure
 - 👀 I’m interested in drawing. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Pon / Hoka
+- 😄 
 - ⚡ Fun fact: ...
 
 <!---
